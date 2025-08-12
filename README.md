@@ -1,2 +1,2 @@
-# Multi-omics of skin mycobiome in atopic dermatitis and psoriasis<img width="468" height="53" alt="image" src="https://github.com/user-attachments/assets/52e1dba0-50e7-48bb-93ba-80f860e5c896" />
+# Multi-omics of skin mycobiome in atopic dermatitis and psoriasis
 This repository contains original code for major analyses of the manuscript “Integrated skin mycobiome-bacteriome-host gene analysis reveals fungal signatures in atopic dermatitis and psoriasis”. In each analysis folder, the codes for the major analyses and the plotting of the corresponding figure are included.
