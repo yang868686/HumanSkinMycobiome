@@ -29,6 +29,5 @@ p_abun<-lefse$plot_diff_abund(use_number = 1:8, group_order = c("LES", "NON_LES"
 p_abun
 ggsave('p_abun.pdf', p_abun, width = 12, height = 8)
 dev.off()
-
-
 graphics.off()
+
